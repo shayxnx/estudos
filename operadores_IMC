@@ -1,0 +1,5 @@
+massa = 45
+altura = 1.58
+
+IMC= massa / altura ** 2
+print(IMC)
